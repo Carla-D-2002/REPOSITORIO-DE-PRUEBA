@@ -1,2 +1,5 @@
 print ('Las palabras de las personas estan sesgadas\n')
-print ('al igual que su conciencia ennegrecida\n')
+print ('al igual que su conciencia ennegrecida.\n')
+print ('El mundo es un lugar envuelto en tinieblas.\n')
+print ('Sus caminos estan hechos de huesos y carne podrida,\n')
+print ('su agua está teñida por la sangre que fluye en ella\n')
